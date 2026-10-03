@@ -1,5 +1,4 @@
-- id: 1
-  type: AI-Music
+- type: AI-Music
   name: Sitaron Se Aage
   language: Hindi-English
   file_name: sitaron_se_aage.mp3
@@ -7,8 +6,7 @@
   duration_min: 2:43
   repo: ai-music-1
 
-- id: 2
-  type: AI-Music
+- type: AI-Music
   name: Sikandar Ka Shor
   language: Hindi-English
   file_name: sikandar_ka_shor.mp3
