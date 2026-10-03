@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "type": "AI-Music",
+    "name": "Sitaron Se Aage",
+    "language": "Hindi-English",
+    "file_name": "sitaron_se_aage.mp3",
+    "image": "sitaron_se_aage.jpg",
+    "duration_min": "2:43",
+    "repo": "ai-music-1"
+  },
+  {
+    "id": 2,
+    "type": "AI-Music",
+    "name": "Sikandar Ka Shor",
+    "language": "Hindi-English",
+    "file_name": "sikandar_ka_shor.mp3",
+    "image": "sikandar_ka_shor.jpg",
+    "duration_min": "2:49",
+    "repo": "ai-music-1"
+  }
+]
