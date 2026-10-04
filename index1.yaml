@@ -13,3 +13,11 @@
   image: sikandar_ka_shor.jpg
   duration_min: 2:49
   repo: ai-music-1
+  
+  - type: Phonk
+  name: Mente De Ago
+  language: Brazilian
+  file_name: mente_de_a_o.mp3
+  image: mente_de_a_o.jpg
+  duration_min: 2:36
+  repo: phonk-1
